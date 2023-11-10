@@ -13,4 +13,4 @@ Misc Tab
 Interface - Override Viewmodel (FOV, X, Y, Z), Override Aspectratio (1-3), Crosshair Indicators (Items: State, DT, HS), Velocity Indicator, Manual Arrows (Anim, Active Only, Hide in Scope), Log Events (Console, Top-Left), Logo (Mid-Left, Mid-Right, Top-Right, Bottom, Custom).
 Miscellaneous - No Fall Damage, Avoid Collisions (Distance: 5-20), Taskbar Notify, Auto Unmute, Fast Ladder (Ascending, Descending, 180 Yaw), Nade Fix, Clantag.
 Animations - Static Legs In Air, Leg Movement (Static, Jitter), Move Lean (1-100%).
-Configrations - Export Config; Import Config.
+Configrations - Export Config, Import Config.
