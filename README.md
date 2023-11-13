@@ -13,5 +13,5 @@ Anti-Aim - Anti Aim: Manual Yaw (Disabled, Backward, Left, Right, Forward; Stati
 Misc Tab
 Interface - Override Viewmodel (FOV: -100 - 100; X: -10 - 10; Y: -10 - 10; Z: -10 - 10), Override Aspectratio (1-3; Presets: 4:3; 3:2; 5:4; 16:9; 16:10), Crosshair Indicators (Items: State, DT, HS; Primary, Secondary, State Colors), Velocity Indicator (Color), Manual Arrows (Anim, Active Only, Hide in Scope, Position: -10 - 100; Active, Inactive Colors), Log Events (Console, Top-Left), Logo (Mid-Left, Mid-Right, Top-Right, Bottom, Custom; Primary, Secondary Colors).
 Miscellaneous - No Fall Damage, Avoid Collisions (Distance: 5-20), Taskbar Notify (Flashes your csgo icon on round start if you are alt-tabbed), Auto Unmute, Fast Ladder (Ascending, Descending, 180 Yaw), Nade Fix, Clantag.
-Animations - Static Legs In Air, Leg Movement (Static, Jitter), Move Lean (1-100%).
+Animations - Static Legs In Air, Leg Movement (Type: Static, Jitter), Move Lean (1-100%).
 Configrations - Export Config, Import Config.
